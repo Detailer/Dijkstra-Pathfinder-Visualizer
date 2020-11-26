@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dijkstra-Pathfinder-Visualizer/static/css/main.85050a16.chunk.css",
+    "main.js": "/Dijkstra-Pathfinder-Visualizer/static/js/main.4b485d48.chunk.js",
+    "main.js.map": "/Dijkstra-Pathfinder-Visualizer/static/js/main.4b485d48.chunk.js.map",
+    "runtime-main.js": "/Dijkstra-Pathfinder-Visualizer/static/js/runtime-main.8b0a6634.js",
+    "runtime-main.js.map": "/Dijkstra-Pathfinder-Visualizer/static/js/runtime-main.8b0a6634.js.map",
+    "static/js/2.c9f27139.chunk.js": "/Dijkstra-Pathfinder-Visualizer/static/js/2.c9f27139.chunk.js",
+    "static/js/2.c9f27139.chunk.js.map": "/Dijkstra-Pathfinder-Visualizer/static/js/2.c9f27139.chunk.js.map",
+    "index.html": "/Dijkstra-Pathfinder-Visualizer/index.html",
+    "static/css/main.85050a16.chunk.css.map": "/Dijkstra-Pathfinder-Visualizer/static/css/main.85050a16.chunk.css.map",
+    "static/js/2.c9f27139.chunk.js.LICENSE.txt": "/Dijkstra-Pathfinder-Visualizer/static/js/2.c9f27139.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b0a6634.js",
+    "static/js/2.c9f27139.chunk.js",
+    "static/css/main.85050a16.chunk.css",
+    "static/js/main.4b485d48.chunk.js"
+  ]
+}
